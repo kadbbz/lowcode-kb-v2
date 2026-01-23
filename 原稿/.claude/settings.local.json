@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"d:\\\\OneDrive - GRAPECITY HOLDINGS LIMITED\\\\2026\\\\2026-低代码子站改版\\\\原稿\")",
+      "Bash(powershell:*)"
+    ]
+  }
+}
